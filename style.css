@@ -1,0 +1,6 @@
+.player {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  transition: 0.2s;
+}
